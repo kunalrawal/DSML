@@ -2,9 +2,7 @@
 Datasets Covered :
 
 EDA :
-
 	- Australia Immigrants
-	
 	- Titanic
 	
 Linear Regression :
