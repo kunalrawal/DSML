@@ -11,19 +11,23 @@ Linear Regression :
 - California Housing Prices
 - MPG
 - Salary Data
+
 Logistic Regression :
-	- Advertising Data
-	- Candy Data
-	- Heart Disease
-	- Iris
-	- Titanic
+- Advertising Data
+- Candy Data
+- Heart Disease
+- Iris
+- Titanic
+
 Random :
-	- Diabetes covering various 
+- Diabetes covering various 
+
 Tensorflow :
-	- Numbers Image (MNIST)
-	- Fashion Clothes Image (Fashion_MNST)
+- Numbers Image (MNIST)
+- Fashion Clothes Image (Fashion_MNST)
+
 Unsupervised :
-	- Diabetes detection using KNN
+- Diabetes detection using KNN
 
 
 Useful links for me :
