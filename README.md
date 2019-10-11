@@ -2,15 +2,15 @@
 Datasets Covered :
 
 EDA :
-	- Australia Immigrants
-	- Titanic
+- Australia Immigrants
+- Titanic
 	
 Linear Regression :
-	- Graduate Admissions
-	- Boston Housing Prices
-	- California Housing Prices
-	- MPG
-	- Salary Data
+- Graduate Admissions
+- Boston Housing Prices
+- California Housing Prices
+- MPG
+- Salary Data
 Logistic Regression :
 	- Advertising Data
 	- Candy Data
