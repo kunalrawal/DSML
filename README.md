@@ -1,8 +1,12 @@
 # DSML
 Datasets Covered :
+
 EDA :
+
 	- Australia Immigrants
+	
 	- Titanic
+	
 Linear Regression :
 	- Graduate Admissions
 	- Boston Housing Prices
