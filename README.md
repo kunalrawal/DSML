@@ -19,6 +19,9 @@ Logistic Regression :
 - Iris
 - Titanic
 
+NLP :
+- Amazon Reviews
+
 Random :
 - Diabetes covering various 
 
